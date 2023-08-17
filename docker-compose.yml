@@ -1,6 +1,6 @@
 services:
   app:
-    image: fscarmen/argo-x:okteto
+    image: fscarmen/argo-x:nezha-ok
     ports:
       - "80:3000"
     environment:
